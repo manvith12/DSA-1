@@ -78,11 +78,7 @@ Because nothing says "I'm crushing my data structures assignment" like the right
   </a>
 </div>
 
-## 🎲 The DS Drinking Game (Non-alcoholic Version)
 
-- Take a sip of water every time you implement a recursive function
-- Do a push-up every time your code fails a test case
-- Eat a candy when you optimize a solution to a better time complexity
 
 ## 💌 Keep in Touch
 
